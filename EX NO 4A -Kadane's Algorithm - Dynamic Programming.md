@@ -1,4 +1,4 @@
-[
+
 # EX 4A Kadane's Algorithm - Dynamic Programming. 
 ## DATE:22/09/25
 ## AIM:
@@ -101,4 +101,4 @@ public class SolarEnergyMaximizer {
 
 ## Result:
 The program successfully Implemented and the output is verified. 
-](https://github.com/Murali-Krishna0/AOA-Java-M13)
+
